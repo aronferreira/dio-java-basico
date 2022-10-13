@@ -1,3 +1,3 @@
-public class Veiculo{
-    
+public class Veiculo {
+
 }
