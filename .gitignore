@@ -26,3 +26,8 @@ exercicios-loops/src/ExerciciosLoopsSite/src/ValidarInformacoes.java
 exercicios-loops/src/ExerciciosLoopsSite/src/NomeSenha.java
 exercicios-loops/src/ExerciciosLoopsSite/.vscode/settings.json
 exercicios-loops/src/ExerciciosLoopsSite/README.md
+exercicios-herança/src/herança_downcasts_upcasts/Faxineiro.java
+exercicios-herança/src/herança_downcasts_upcasts/Funcionario.java
+exercicios-herança/src/herança_downcasts_upcasts/Gerente.java
+exercicios-herança/src/herança_downcasts_upcasts/Main.java
+exercicios-herança/src/herança_downcasts_upcasts/Vendedor.java
